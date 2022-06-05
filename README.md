@@ -1,4 +1,5 @@
-﻿# pistolDetectionYolov5
+# pistolDetectionYolov5
+This app is developed with Django4.0.5 and yolov5.
 
 requirements
 python 3.10.4
